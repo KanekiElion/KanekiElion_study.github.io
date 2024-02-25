@@ -1,2 +1,2 @@
-# Kanekielion.github.io/Study/index.html
+#okarukava.github.io/Study/index.html
  Study web-design
