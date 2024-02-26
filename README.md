@@ -1,1 +1,1 @@
-#okarukava.github.io/Study
+okarukava.github.io/Study
